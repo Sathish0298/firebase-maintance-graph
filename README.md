@@ -1,3 +1,6 @@
+realtime graph
+https://firebase-maintance-graph0298.streamlit.app/?refresh_time=1742198157
+
 python autorefresh.py
 
 after edit the code 
@@ -19,8 +22,8 @@ git push -u origin main
 
 push and commit github 
 before run
-sh-5.2$   git config --global user.email "sathish.s0298@gmail.com"
-sh-5.2$  git config --global user.name "Sathish0298"
+sh-5.2$   git config --global user.email "useremail"
+sh-5.2$  git config --global user.name "password"
 
 …or create a new repository on the command line
 echo "# predictive-maintance-with-alert-system" >> README.md
